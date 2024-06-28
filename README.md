@@ -16,7 +16,7 @@ Hello! 👋 I am a passionate Computer Science student at the Ionian University.
   - [Personal Blog](https://github.com/yourusername/personal-blog)
 
 ## 🛠️ Skills
-- **Programming Languages**: Python, JavaScript, C++, Java
+- **Programming Languages**: Python, JavaScript, C++, C# ,Java
 - **Web Development**: HTML, CSS, React, Node.js, Express.js
 - **Databases**: MySQL, MongoDB
 - **Tools & Platforms**: Git, Docker, AWS, Heroku
