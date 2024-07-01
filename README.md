@@ -15,12 +15,15 @@ Hello! 👋 I am a passionate Computer Science student at the Ionian University.
 - **Repository Links**:
   - [Personal Blog](https://github.com/yourusername/personal-blog)
 
+### 3. 💧 Waterpark Entrance System
+- **Description**: A system to create entrance cards and manage access to a waterpark. This project includes features for card creation, entrance checking, and tracking visitor data.
+- **Technologies Used**: .NET Windows Forms, C#
+
 ## 🛠️ Skills
-- **Programming Languages**: Python, JavaScript, C++, C# ,Java
+- **Programming Languages**: Python, JavaScript, C++, C#, Java
 - **Web Development**: HTML, CSS, React, Node.js, Express.js
 - **Databases**: MySQL, MongoDB
 - **Tools & Platforms**: Git, Docker, AWS, Heroku
-
 
 ---
 
